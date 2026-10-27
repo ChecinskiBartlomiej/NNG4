@@ -4,3 +4,5 @@ lake-packages/
 **/.DS_Store
 .i18n/**/*.mo
 *~
+
+commands.txt
