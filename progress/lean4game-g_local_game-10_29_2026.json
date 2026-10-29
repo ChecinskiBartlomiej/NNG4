@@ -40,7 +40,33 @@
     "MyNat.zero_ne_succ",
     "MyNat.zero_ne_one",
     "symm",
-    "MyNat.one_ne_zero"
+    "MyNat.one_ne_zero",
+    "MyNat.pow_zero",
+    "Pow",
+    "MyNat.zero_pow_zero",
+    "MyNat.pow_succ",
+    "MyNat.zero_pow_succ",
+    "MyNat.pow_one",
+    "MyNat.one_pow",
+    "MyNat.pow_two",
+    "MyNat.pow_add",
+    "MyNat.mul_pow",
+    "MyNat.pow_pow",
+    "MyNat.add_sq",
+    "MyNat.add_left_comm",
+    "simp",
+    "simp_add",
+    "MyNat.pred_succ",
+    "trivial",
+    "MyNat.is_zero_succ",
+    "MyNat.is_zero_zero",
+    "MyNat.succ_ne_zero",
+    "contrapose",
+    "contrapose!",
+    "MyNat.succ_ne_succ",
+    "decide",
+    "MyNat.add_right_cancel",
+    "MyNat.add_left_cancel"
   ],
   "readIntro": false,
   "data": {
@@ -251,6 +277,147 @@
       "11": {
         "code": "",
         "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "readIntro": false
+    },
+    "Power": {
+      "1": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "2": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "3": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "4": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "5": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "6": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "7": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "8": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "9": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "10": {
+        "code": "",
+        "completed": false,
+        "selections": [],
+        "help": []
+      },
+      "readIntro": false
+    },
+    "Algorithm": {
+      "1": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "2": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "3": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "4": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "5": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "6": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "7": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "8": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "9": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "readIntro": false
+    },
+    "AdvAddition": {
+      "1": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "2": {
+        "code": "",
+        "completed": true,
+        "selections": [],
+        "help": []
+      },
+      "3": {
+        "code": "",
+        "completed": false,
         "selections": [],
         "help": []
       },
